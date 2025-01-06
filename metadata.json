@@ -1,0 +1,16 @@
+{
+    "name": "Les évènements culturels de la Ville de Genève",
+    "authors": {
+      "author1": "Boris Pahnke",
+      "author2": "Simona Müller"
+    },
+    "sources":{
+      "source1":"La page web des évènements culturels de la Ville de Genève",
+      "source2":"api Open weather"
+    },
+    "formats":{ 
+      "format1":".csv",
+      "format2":".json"
+    },
+    "description": "Notre projet d'intéropérabilité a pour but de pouvoir indiquer la météo qu'il fera lorsqu'on est intéressé par un évènement culturel"
+  }  
